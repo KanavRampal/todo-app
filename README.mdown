@@ -8,12 +8,12 @@ NodeJs,Web Browser
 
 ### Installation 
 
-1.Clone repo.
-2.Cd to downloaded project location.
-3.Use npm install to get all the dependencies.
-4.Run command node index.js.
-5.Go to the browser at "localhost:4000/"
-6.Start using the todo app. 
+1. Clone repo.
+2. Cd to downloaded project location.
+3. Use npm install to get all the dependencies.
+4. Run command node index.js.
+5. Go to the browser at "localhost:4000/"
+6. Start using the todo app. 
 
 ## Developed using
 * WebStrom
@@ -22,12 +22,12 @@ NodeJs,Web Browser
 
 
 ## References
-1.w3schools.com
-2.MDN web docs
-3.https://expressjs.com
-4.https://nodejs.org
-5.https://www.npmjs.com
-6.https://www.tutorialspoint.com/bootstrap
+1. w3schools.com
+2. MDN web docs
+3. https://expressjs.com
+4. https://nodejs.org
+5. https://www.npmjs.com
+6. https://www.tutorialspoint.com/bootstrap
 
 ### Author
 Kanav Rampal
